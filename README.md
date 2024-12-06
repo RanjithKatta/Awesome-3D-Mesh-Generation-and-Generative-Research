@@ -1,9 +1,15 @@
 # Awesome-3D-Mesh-Generation-and-Generative-Research
 This repo is to provide various talks, lectures and current on going research in the 3D Mesh Generation. I also provide the research articles like survey, Siggarph , Siggarph Asia, Eurographics, ICLR, CVPR, ICCV, ECCV regarding Mesh Generation.
+
+
 **Research Application area**: 3D Content Creation
 **Application Tasks**: Text-to-3D and Image-to-3D
+
+
 **Datasets**
       3D Datasets: Objaverse, GoogleScan Objects, ABO dataset, ShapeNet, DTU dataset, Ikea 
+
+      
 **3D Foundational Models**
   Text-to-3D Shape Generation, Eurographics STAR 2024, Computer Graphics forum
   3D Generative Models: A Survey, arXiv 2023
@@ -12,7 +18,8 @@ This repo is to provide various talks, lectures and current on going research in
   When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Taks via Multi-Modal LLMs, arxiv 2024
   A Comprehensive Survey on 3D Content Creation, arxiv 2024
 
-**Generative Model in 3D Foundation Models: ** 
+**Generative Model in 3D Foundation Models:** 
+
 2D Generation for Multi-view Images( object)
   Stage one :  LIFTING 2D DIFFUSION FOR 3D GENERATION
   Current SOTA models
