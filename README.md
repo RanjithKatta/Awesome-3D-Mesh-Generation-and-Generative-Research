@@ -4,20 +4,21 @@ This repo is to provide various talks, lectures and current on going research in
 
 **Research Application area**: 3D Content Creation
 **Application Tasks**: Text-to-3D and Image-to-3D
-
+<br />
 
 **Datasets**
       3D Datasets: Objaverse, GoogleScan Objects, ABO dataset, ShapeNet, DTU dataset, Ikea 
 
-      
+      <br />
 **3D Foundational Models**
   Text-to-3D Shape Generation, Eurographics STAR 2024, Computer Graphics forum
-  3D Generative Models: A Survey, arXiv 2023
-  A Comprehensive Survey on 3D Content Generation, arxiv 2024
-  AIGC for Various Data Modalities: A Survey, arxiv 2024
-  When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Taks via Multi-Modal LLMs, arxiv 2024
+<br />
+  3D Generative Models: A Survey, arXiv 2023<br />
+  A Comprehensive Survey on 3D Content Generation, arxiv 2024<br />
+  AIGC for Various Data Modalities: A Survey, arxiv 2024<br />
+  When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Taks via Multi-Modal LLMs, arxiv 2024<br />
   A Comprehensive Survey on 3D Content Creation, arxiv 2024
-
+<br />
 **Generative Model in 3D Foundation Models:** 
 
 2D Generation for Multi-view Images( object)
