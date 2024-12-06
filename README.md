@@ -2,16 +2,14 @@
 This repo is to provide various talks, lectures and current on going research in the 3D Mesh Generation. I also provide the research articles like survey, Siggarph , Siggarph Asia, Eurographics, ICLR, CVPR, ICCV, ECCV regarding Mesh Generation.
 
 
-**Research Application area**: 3D Content Creation
-**Application Tasks**: Text-to-3D and Image-to-3D
-<br />
+**Research Application area**: 3D Content Creation <br />
+**Application Tasks**: Text-to-3D and Image-to-3D <br />
 
-**Datasets**
+**Datasets** <br />
       3D Datasets: Objaverse, GoogleScan Objects, ABO dataset, ShapeNet, DTU dataset, Ikea 
 
-**3D Foundational Models**
-  Text-to-3D Shape Generation, Eurographics STAR 2024, Computer Graphics forum
-<br />
+**3D Foundational Models** <br />
+  Text-to-3D Shape Generation, Eurographics STAR 2024, Computer Graphics forum <br />
   3D Generative Models: A Survey, arXiv 2023<br />
   A Comprehensive Survey on 3D Content Generation, arxiv 2024<br />
   AIGC for Various Data Modalities: A Survey, arxiv 2024<br />
