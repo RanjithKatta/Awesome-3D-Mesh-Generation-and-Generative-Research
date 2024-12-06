@@ -14,11 +14,10 @@ This repo is to provide various talks, lectures and current on going research in
   A Comprehensive Survey on 3D Content Generation, arxiv 2024<br />
   AIGC for Various Data Modalities: A Survey, arxiv 2024<br />
   When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Taks via Multi-Modal LLMs, arxiv 2024<br />
-  A Comprehensive Survey on 3D Content Creation, arxiv 2024
-<br />
-**Generative Model in 3D Foundation Models:** 
+  A Comprehensive Survey on 3D Content Creation, arxiv 2024 <br />
 
-2D Generation for Multi-view Images( object) <br />
+**Generative Model in 3D Foundation Models:** <br />
+	2D Generation for Multi-view Images( object) <br />
   Stage one :  LIFTING 2D DIFFUSION FOR 3D GENERATION<br />
  **Current SOTA models** <br />
   Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model, <br />
