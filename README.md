@@ -66,7 +66,7 @@ No explanation of different 3D representations is mentioned here. <br />
   VolRecon: Volume Rendering of Signed Ray Distance Functions for Generalizable Multi-view Reconstruction <br />
 
 **Representation and Reconstruction Pipeline**
-  **Sparse-view Reconstruction Models**
+  **Sparse-view Reconstruction Models** <br />
       LRM: Large Reconstruction Model for Single Image to 3D, ICLR 2024 oral <br />
       **With the Directions of LRM:** <br />
       MeshLRM: Large Reconstruction Model for High-Quality Meshes, 18 April 2024 Arxiv <br />
