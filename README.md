@@ -22,7 +22,7 @@ This repo is to provide various talks, lectures and current on going research in
 
 2D Generation for Multi-view Images( object) <br />
   Stage one :  LIFTING 2D DIFFUSION FOR 3D GENERATION<br />
- ** Current SOTA models**
+ **Current SOTA models** <br />
   Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model, <br />
   MVDream: Multi-view Diffusion for 3D Generation, ICLR 2024 <br />
 
